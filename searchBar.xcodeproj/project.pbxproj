@@ -14,6 +14,7 @@
 		DC42537D211A767700A6C8F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC42537B211A767700A6C8F3 /* LaunchScreen.storyboard */; };
 		DC425388211A767700A6C8F3 /* searchBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC425387211A767700A6C8F3 /* searchBarTests.swift */; };
 		DC425393211A767700A6C8F3 /* searchBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC425392211A767700A6C8F3 /* searchBarUITests.swift */; };
+		DC4253A1211A76E700A6C8F3 /* statesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4253A0211A76E700A6C8F3 /* statesCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DC42538E211A767700A6C8F3 /* searchBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = searchBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC425392211A767700A6C8F3 /* searchBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchBarUITests.swift; sourceTree = "<group>"; };
 		DC425394211A767700A6C8F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC4253A0211A76E700A6C8F3 /* statesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = statesCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				DC425372211A767500A6C8F3 /* AppDelegate.swift */,
 				DC425374211A767500A6C8F3 /* ViewController.swift */,
 				DC425376211A767500A6C8F3 /* Main.storyboard */,
+				DC4253A0211A76E700A6C8F3 /* statesCell.swift */,
 				DC425379211A767700A6C8F3 /* Assets.xcassets */,
 				DC42537B211A767700A6C8F3 /* LaunchScreen.storyboard */,
 				DC42537E211A767700A6C8F3 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC425375211A767500A6C8F3 /* ViewController.swift in Sources */,
+				DC4253A1211A76E700A6C8F3 /* statesCell.swift in Sources */,
 				DC425373211A767500A6C8F3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
